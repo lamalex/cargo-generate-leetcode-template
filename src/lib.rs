@@ -1,10 +1,11 @@
-#![allow(dead_code)]
-
+#[allow(dead_code)]
 struct Solution();
+
 impl Solution {
     /*
      * Replace good_luck
      */
+    #[allow(dead_code)]
     pub fn good_luck() -> Option<()> {
         None
     }
